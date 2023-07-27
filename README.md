@@ -2,6 +2,8 @@
 
 This is a basic project made with React for studying purposes. The project simulates the login process with login form and logged page. The form has email and password and both are validated before logging in. The session is persisted using local storage.
 
+To login the email must include @ and the password must have more than 6 characters.
+
 I coded along during the course [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/#instructor-2) by Maximilian Schwarzmüller at Udemy.
 
 ## Check it in action
